@@ -3,6 +3,7 @@ uvicorn
 anthropic              # provider utama (Claude)
 google-generativeai    # fallback (Gemini), dipakai kalau Anthropic kena rate/token limit
 sqlalchemy
+pytest                 # Hari 1, unit test
 pdfplumber      # Hari 2
 chromadb        # Hari 2
 sentence-transformers   # Hari 2, opsional untuk embedding lokal
