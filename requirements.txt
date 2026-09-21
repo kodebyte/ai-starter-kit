@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+anthropic              # provider utama (Claude)
+google-generativeai    # fallback (Gemini), dipakai kalau Anthropic kena rate/token limit
+sqlalchemy
+pdfplumber      # Hari 2
+chromadb        # Hari 2
+sentence-transformers   # Hari 2, opsional untuk embedding lokal
+spacy           # Hari 3, PII masking

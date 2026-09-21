@@ -1,0 +1,26 @@
+order_id,customer_name,email,phone,product_id,product_name,status,order_date,notes
+ORD1001,Siti Amalia,siti.amalia@example.com,081234567801,P002,Mechanical Keyboard K2,delivered,2026-09-05,
+ORD1002,Budi Santoso,budi.santoso@example.com,081234567802,P006,Portable SSD 1TB,delayed,2026-09-10,Customer follow up 2x lewat WA - belum ada update kurir
+ORD1003,Rina Wijaya,rina.wijaya@example.com,081234567803,P001,Wireless Mouse X1,shipped,2026-09-18,
+ORD1004,Ahmad Fauzi,ahmad.fauzi@example.com,081234567804,P009,Monitor 24-inch FHD,delayed,2026-09-08,Minta refund ke kartu 4111 1111 1111 1111 karena barang belum sampai 2 minggu
+ORD1005,Dewi Lestari,dewi.lestari@example.com,081234567805,P007,Noise Cancelling Headset,delivered,2026-09-12,
+ORD1006,Muhammad Rizky,m.rizky@example.com,081234567806,P003,USB-C Hub 7-in-1,processing,2026-09-20,
+ORD1007,Putri Handayani,putri.handayani@example.com,081234567807,P012,Docking Station Dual Monitor,delayed,2026-09-09,NIK atas nama pemesan 3273010101990001 untuk verifikasi klaim garansi
+ORD1008,Agus Setiawan,agus.setiawan@example.com,081234567808,P005,Webcam HD 1080p,cancelled,2026-09-14,Dibatalkan atas permintaan customer
+ORD1009,Nurul Hidayah,nurul.hidayah@example.com,081234567809,P008,Power Bank 20000mAh,delivered,2026-09-16,
+ORD1010,Hendra Gunawan,hendra.gunawan@example.com,081234567810,P002,Mechanical Keyboard K2,delayed,2026-09-11,Sudah 10 hari, minta dikirim ulang atau refund penuh
+ORD1011,Yuni Kartika,yuni.kartika@example.com,081234567811,P011,Bluetooth Speaker Mini,shipped,2026-09-19,
+ORD1012,Fajar Nugroho,fajar.nugroho@example.com,081234567812,P004,Laptop Stand Alu,processing,2026-09-20,
+ORD1013,Indah Permatasari,indah.permatasari@example.com,081234567813,P010,Ergonomic Mouse Pad,delivered,2026-09-13,
+ORD1014,Bayu Prasetyo,bayu.prasetyo@example.com,081234567814,P006,Portable SSD 1TB,delayed,2026-09-07,Refund diminta ke kartu 5500 0000 0000 0004, mohon diproses cepat
+ORD1015,Wulan Sari,wulan.sari@example.com,081234567815,P009,Monitor 24-inch FHD,shipped,2026-09-17,
+ORD1016,Doni Kurniawan,doni.kurniawan@example.com,081234567816,P001,Wireless Mouse X1,delivered,2026-09-15,
+ORD1017,Sri Wahyuni,sri.wahyuni@example.com,081234567817,P007,Noise Cancelling Headset,processing,2026-09-21,
+ORD1018,Eko Purnomo,eko.purnomo@example.com,081234567818,P003,USB-C Hub 7-in-1,delayed,2026-09-06,Komplain berulang, eskalasi ke supervisor
+ORD1019,Lina Marlina,lina.marlina@example.com,081234567819,P012,Docking Station Dual Monitor,delivered,2026-09-04,
+ORD1020,Taufik Hidayat,taufik.hidayat@example.com,081234567820,P005,Webcam HD 1080p,shipped,2026-09-18,
+ORD1021,Ratna Sari,ratna.sari@example.com,081234567821,P008,Power Bank 20000mAh,processing,2026-09-21,
+ORD1022,Arif Rahman,arif.rahman@example.com,081234567822,P011,Bluetooth Speaker Mini,delayed,2026-09-10,NIK 3574020202880002 dilampirkan untuk proses klaim asuransi pengiriman
+ORD1023,Maya Anggraini,maya.anggraini@example.com,081234567823,P002,Mechanical Keyboard K2,cancelled,2026-09-09,Stok habis saat proses packing
+ORD1024,Irfan Hakim,irfan.hakim@example.com,081234567824,P010,Ergonomic Mouse Pad,delivered,2026-09-16,
+ORD1025,Citra Dewanti,citra.dewanti@example.com,081234567825,P004,Laptop Stand Alu,delayed,2026-09-12,Barang hilang di ekspedisi, minta kompensasi

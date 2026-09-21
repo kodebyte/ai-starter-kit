@@ -1,0 +1,14 @@
+[
+  {"product_id": "P001", "name": "Wireless Mouse X1", "category": "Aksesoris", "stock": 42, "price": 149000},
+  {"product_id": "P002", "name": "Mechanical Keyboard K2", "category": "Aksesoris", "stock": 15, "price": 899000},
+  {"product_id": "P003", "name": "USB-C Hub 7-in-1", "category": "Aksesoris", "stock": 3, "price": 259000},
+  {"product_id": "P004", "name": "Laptop Stand Alu", "category": "Aksesoris", "stock": 0, "price": 199000},
+  {"product_id": "P005", "name": "Webcam HD 1080p", "category": "Elektronik", "stock": 27, "price": 349000},
+  {"product_id": "P006", "name": "Portable SSD 1TB", "category": "Penyimpanan", "stock": 9, "price": 1250000},
+  {"product_id": "P007", "name": "Noise Cancelling Headset", "category": "Audio", "stock": 18, "price": 749000},
+  {"product_id": "P008", "name": "Power Bank 20000mAh", "category": "Elektronik", "stock": 2, "price": 289000},
+  {"product_id": "P009", "name": "Monitor 24-inch FHD", "category": "Elektronik", "stock": 6, "price": 1899000},
+  {"product_id": "P010", "name": "Ergonomic Mouse Pad", "category": "Aksesoris", "stock": 55, "price": 79000},
+  {"product_id": "P011", "name": "Bluetooth Speaker Mini", "category": "Audio", "stock": 0, "price": 199000},
+  {"product_id": "P012", "name": "Docking Station Dual Monitor", "category": "Aksesoris", "stock": 4, "price": 649000}
+]
